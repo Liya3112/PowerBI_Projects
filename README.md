@@ -1,5 +1,5 @@
 # PowerBI_Projects
-Power BI Projects
+HR Analytics project:
 This is a project dealing with real time dataset of Presence(Attendance) Information of the employees of AtliqTechnologies.
 
 The HR needs the following insights from the data:
